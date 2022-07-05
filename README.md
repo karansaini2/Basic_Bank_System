@@ -1,5 +1,4 @@
 # Basic_Bank_System
-A task for The Sparks Foundation as an Intern
+My Project in Sparks Foundation as an intern.
 
-This is a website demonstration of a Basic Banking System. There is only view of all the Customers and a fuction of Transfering Money. 
-The Website is Fully responsive.
+This is a basic banking system built using vanilla JS. It allows you to view the list of all customers, get information about a particular customer, and transfer money to anyone on the list.
